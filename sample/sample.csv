@@ -1,0 +1,26 @@
+company,business_unit,date,rating,review_text
+Acme Retail,Online Store,2026-03-01,2,The website kept crashing during checkout and I was charged twice.
+Acme Retail,Customer Support,2026-03-02,1,Support took forever to reply and never answered my question.
+Acme Retail,Downtown Store,2026-03-03,2,The staff was rude and the store was messy.
+BrightFlow,Mobile App,2026-03-03,3,The app is confusing and it took too many steps to complete a simple task.
+BrightFlow,Billing,2026-03-04,1,I was billed twice and the refund process was unclear.
+BrightFlow,Operations,2026-03-04,2,Delivery was late and no one updated me about the delay.
+NorthPeak,Warehouse,2026-03-05,2,My order arrived with the wrong item and one product was missing.
+NorthPeak,Website,2026-03-05,4,Good products overall but the search feature is hard to use.
+NorthPeak,Support,2026-03-06,1,Customer service was dismissive and unhelpful when I asked for help.
+CloudNest,Platform,2026-03-06,2,The dashboard was slow and timed out several times while I was working.
+CloudNest,Onboarding,2026-03-07,3,The setup instructions were unclear and the workflow felt complicated.
+CloudNest,Sales,2026-03-07,2,The pricing was not explained clearly and I felt misled.
+GreenCart,Fulfillment,2026-03-08,1,My package never arrived and support kept sending generic replies.
+GreenCart,Retail Location,2026-03-08,2,The location was dirty and several shelves were empty.
+GreenCart,App,2026-03-09,2,The app logged me out during payment and my coupon disappeared.
+NovaHome,Installation,2026-03-09,3,The technician was polite but arrived much later than scheduled.
+NovaHome,Product,2026-03-10,2,The product stopped working after two days and felt cheaply made.
+NovaHome,Support,2026-03-10,1,I had to explain the issue three times and still got no resolution.
+PeakLearn,Student Portal,2026-03-11,2,The portal kept freezing and I could not submit my assignment.
+PeakLearn,Advising,2026-03-11,4,"Helpful advisor, but booking an appointment was confusing."
+PeakLearn,Billing,2026-03-12,2,Unexpected fees showed up and no one explained what they were for.
+UrbanWash,Pickup Service,2026-03-12,1,Pickup was missed completely and no one contacted me.
+UrbanWash,Website,2026-03-13,3,"The site works, but the scheduling flow is harder than it should be."
+UrbanWash,Customer Support,2026-03-13,2,The agent was short with me and did not seem to care.
+Acme Retail,Downtown Store,2026-03-14,5,Great experience overall and the staff was very helpful.
